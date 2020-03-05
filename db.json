@@ -31,9 +31,9 @@
   "non-standard-objects-more-fields": [
     {
       "id": 1,
-      "firstname": "Richard",
-      "lastname": "White",
-      "fullname": "Richard White"
+      "firstname": "Marge",
+      "lastname": "Simpson",
+      "fullname": "Marge Simpson"
     },
     {
       "id": 2,
