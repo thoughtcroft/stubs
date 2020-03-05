@@ -31,14 +31,14 @@
   "non-standard-objects-more-fields": [
     {
       "id": 1,
-      "firstname": "Richard"
-      "lastname": "White"
+      "firstname": "Richard",
+      "lastname": "White",
       "fullname": "Richard White"
     },
     {
       "id": 2,
-      "firstname": "Homer"
-      "lastname": "Simpson"
+      "firstname": "Homer",
+      "lastname": "Simpson",
       "fullname": "Homer Simpson"
     }
   ]
