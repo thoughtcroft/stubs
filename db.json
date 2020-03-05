@@ -22,6 +22,24 @@
     {
       "id": 2,
       "name": "second"
+    },
+       {
+      "id": 3,
+      "name": "third"
+    }
+  ],
+  "non-standard-objects-more-fields": [
+    {
+      "id": 1,
+      "firstname": "Richard"
+      "lastname": "White"
+      "fullname": "Richard White"
+    },
+    {
+      "id": 2,
+      "firstname": "Homer"
+      "lastname": "Simpson"
+      "fullname": "Homer Simpson"
     }
   ]
 }  
