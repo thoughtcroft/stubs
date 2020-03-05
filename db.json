@@ -1,5 +1,5 @@
 {
-  "items": [
+  "objects": [
     {
       "code": 1,
       "description": "first"
@@ -9,5 +9,9 @@
       "description": "second"
     }
   ],
-  "objects": {"odata.metadata":"https://www-hyetip.cargowise.com/Glow/DomesticTransport/$metadata#PkgPackages","odata.count":"2","value":[{"odata.etag":"W/\"84985973L\"","PackType":{"F3_PK":"aa289f33-8e5f-4eff-8ade-10f80af88de0","F3_Code":"PLT","F3_Description":"Pallet","F3_Height":"1.200","F3_Length":"1.200","F3_UnitOfDimension":"M","F3_UnitOfWeight":"KG","F3_Weight":"1000.000","F3_Width":"1.200"},"PackageHeader":null,"KP_PK":"72cbc064-0586-4076-be59-272bf6f40239","KP_DimensionUQ":"M","KP_F3_NKPackType":"PLT","KP_GoodsDescription":"","KP_Height":"1.200","KP_HSCode":"","KP_IsCheckedWeighedCubed":false,"KP_IsClosed":false,"KP_IsDamaged":false,"KP_IsHeld":false,"KP_IsReleased":false,"KP_IsReleasedViaJob":false,"KP_KJ_ParentPackageJob":"6947a29e-f003-443a-82ba-9f1e523d3d09","KP_KP_ParentPackage":null,"KP_KPH_PackageHeader":null,"KP_Length":"1.200","KP_MarksAndNumbers":"","KP_PackageQty":1,"KP_PreviousPackageID":"","KP_RequiredTemperatureMaximum":"0.000","KP_RequiredTemperatureMinimum":"0.000","KP_RequiredTemperatureUnit":"","KP_RequiresTemperatureControl":false,"KP_RH_NKCommodityCode":"","KP_Sequence":1,"KP_TransportRef":"","KP_Volume":"1.728","KP_VolumeUQ":"M3","KP_Weight":"1000.000","KP_WeightUQ":"KG","KP_Width":"1.200","KP_CHANGE_VERSION":"84985973"},{"odata.etag":"W/\"84985973L\"","PackType":{"F3_PK":"aa289f33-8e5f-4eff-8ade-10f80af88de0","F3_Code":"PLT","F3_Description":"Pallet","F3_Height":"1.200","F3_Length":"1.200","F3_UnitOfDimension":"M","F3_UnitOfWeight":"KG","F3_Weight":"1000.000","F3_Width":"1.200"},"PackageHeader":null,"KP_PK":"be170e05-e218-4878-a3e9-4c66ea53f73b","KP_DimensionUQ":"M","KP_F3_NKPackType":"PLT","KP_GoodsDescription":"","KP_Height":"1.200","KP_HSCode":"","KP_IsCheckedWeighedCubed":false,"KP_IsClosed":false,"KP_IsDamaged":false,"KP_IsHeld":false,"KP_IsReleased":false,"KP_IsReleasedViaJob":false,"KP_KJ_ParentPackageJob":"6947a29e-f003-443a-82ba-9f1e523d3d09","KP_KP_ParentPackage":null,"KP_KPH_PackageHeader":null,"KP_Length":"1.200","KP_MarksAndNumbers":"","KP_PackageQty":1,"KP_PreviousPackageID":"","KP_RequiredTemperatureMaximum":"0.000","KP_RequiredTemperatureMinimum":"0.000","KP_RequiredTemperatureUnit":"","KP_RequiresTemperatureControl":false,"KP_RH_NKCommodityCode":"","KP_Sequence":1,"KP_TransportRef":"","KP_Volume":"0.000","KP_VolumeUQ":"M3","KP_Weight":"1000.000","KP_WeightUQ":"KG","KP_Width":"1.200","KP_CHANGE_VERSION":"84985973"}]}
-}
+  "strings": [
+    "first",
+    "second",
+    "third"
+  ]
+}  
