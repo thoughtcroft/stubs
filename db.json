@@ -14,18 +14,35 @@
     "second",
     "third"
   ],
-   "non-standard-objects": [
+"non-standard-objects-more-fields": [
     {
       "id": 1,
-      "name": "first"
+      "firstname": "Marge",
+      "lastname": "Simpson",
+      "fullname": "Marge Simpson"
     },
     {
       "id": 2,
-      "name": "second"
+      "firstname": "Homer",
+      "lastname": "Simpson",
+      "fullname": "Homer Simpson"
     },
-       {
+    {
       "id": 3,
-      "name": "third"
+      "firstname": null
+      "lastname": "Simpson"
+      "fullname": "Bart Simpson"
+    },
+        {
+      "id": 4,
+      "firstname": ""
+      "lastname": "Simpson"
+      "fullname": "Maggie Simpson"
+    },
+    {
+      "id": 5,
+      "firstname": "Lisa"
+      "lastname": "Simpson"
     }
   ],
   "non-standard-objects-null-code":[
