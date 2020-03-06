@@ -40,6 +40,29 @@
       "firstname": "Homer",
       "lastname": "Simpson",
       "fullname": "Homer Simpson"
+    },
+    {
+      "id": "",
+      "firstname": "Peter",
+      "lastname": "Griffin",
+      "fullname": "Peter Griffin"
+    },
+    {
+      "id": null,
+      "firstname": "Lois",
+      "lastname": "Griffin",
+      "fullname": "Lois Griffin"
+    }    
+  ],
+  "empty-string": [""],
+  "empty-array": [],
+  "malformed-Json": [
+    { 
+      "codeProperty": "1st"
+      "descProperty": "first"
+      "otherDesc": \"first"value\"
+      "num1": 45.
+      "num2": nan
     }
   ]
 }  
