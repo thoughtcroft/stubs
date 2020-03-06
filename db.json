@@ -55,14 +55,5 @@
     }    
   ],
   "empty-string": [""],
-  "empty-array": [],
-  "malformed-Json": [
-    { 
-      "codeProperty": "1st"
-      "descProperty": "first"
-      "otherDesc": \"first"value\"
-      "num1": 45.
-      "num2": nan
-    }
-  ]
+  "empty-array": []
 }  
