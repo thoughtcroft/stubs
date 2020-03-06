@@ -29,19 +29,19 @@
     },
     {
       "id": 3,
-      "firstname": null
-      "lastname": "Simpson"
+      "firstname": null,
+      "lastname": "Simpson",
       "fullname": "Bart Simpson"
     },
         {
       "id": 4,
-      "firstname": ""
-      "lastname": "Simpson"
+      "firstname": "",
+      "lastname": "Simpson",
       "fullname": "Maggie Simpson"
     },
     {
       "id": 5,
-      "firstname": "Lisa"
+      "firstname": "Lisa",
       "lastname": "Simpson"
     }
   ],
