@@ -12,7 +12,10 @@
   "strings": [
     "first",
     "second",
-    "third"
+    "third",
+    "",
+    null,
+    "sixth"
   ],
 "non-standard-objects-more-fields": [
     {
